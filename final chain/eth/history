@@ -1,0 +1,8 @@
+net.peerCount
+admin.peers
+net.peerCount
+admin.peers
+miner.stop()
+admin.peers
+admin.nodeInfo
+personal.listAccounts
