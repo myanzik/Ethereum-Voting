@@ -1,6 +1,6 @@
 # Ethereum-Voting
 
-##Libaries to install:
+## Important Libaries to install:
 1) web3.py:
   - pip install web3
 	
