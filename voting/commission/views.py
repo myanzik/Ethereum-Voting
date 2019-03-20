@@ -161,7 +161,7 @@ contract Check1{
     
 }
 '''
-compiled_sol = compile_source(contract_source_code)
+compiled_sol = compile_source(contract_source_code,import_remappings=['=/', '-'])
 print('comp')
 
 contract_interface = compiled_sol['<stdin>:Check1']
