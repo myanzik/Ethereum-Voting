@@ -9,4 +9,11 @@
 - sudo add−apt−repository ppa : ethereum/ethereum
 - sudo apt−get update
 - sudo apt−get install solc
+
+3) Installing Geth (CLI for ethereum network):
+
+- sudo apt-get install software-properties-common
+- sudo add-apt-repository -y ppa:ethereum/ethereum
+- sudo apt-get update
+- sudo apt-get install ethereum
  
